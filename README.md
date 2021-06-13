@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiamMcBride
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning more Java and Unity.
+- 🌱 I’m currently learning more Java, JS, HTML, and CSS.
 - 📫 Reach me at mailmcbride56@gmail.com
 
 <!---
