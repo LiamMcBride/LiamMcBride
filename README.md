@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more Java, JS, HTML, and CSS.
 - 📫 Reach me at mailmcbride56@gmail.com
 
-![WakaTime](https://wakatime.com/share/@e19c0281-e465-4d77-a45e-028481c3b64a/f8e63bfb-36bd-4e7e-9ad4-0cfd6ecfbd7e.png)
+![WakaTime](https://wakatime.com/share/@e19c0281-e465-4d77-a45e-028481c3b64a/3486f6a2-6fb9-46c9-885d-fb20acce2d07.png)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
