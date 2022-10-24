@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LiamMcBride
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning more Java, JS, HTML, and CSS.
+- Hi, I’m @LiamMcBride
+- I'm currently studying Computer Science at Virginia Tech
 - 📫 Reach me at mailmcbride56@gmail.com
+- Or check out some of my projects at [www.liam-mcbride.com](www.liam-mcbride.com)
 
 
 
